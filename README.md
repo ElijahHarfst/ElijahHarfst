@@ -7,3 +7,5 @@
 - 📫 How to reach me: email - elijahharfst@gmail.com . . instagram - elijahharfst
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love music
+  
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
