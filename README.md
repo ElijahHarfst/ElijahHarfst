@@ -1,5 +1,4 @@
 ## Hi there 👋
-**ElijahHarfst/ElijahHarfst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on LOTS of music
 - 🌱 I’m currently learning any information surrounding digital studies
